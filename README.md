@@ -1,12 +1,6 @@
 # Abhay (swarm-drone)
 Version 01
 
-
-<style>
-  h2 {
-    text-align:center;
-  }
-</style>
 <h1>
   Abstract
 </h1>

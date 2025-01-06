@@ -8,5 +8,5 @@ Version 01
 </h1>
 
 <h2 style="text-align:justify">
-Drones capacity to deliver real-time data and imagery that can be used to immediately analyze the situation on the ground is one of the main benefits of using them in disaster management. This data can be used to prioritize rescue efforts, guide emergency personnel to the places that need it most, and give decision-makers vital situational knowledge
+One of the key advantages of deploying drones in disaster management is their ability to provide real-time data and pictures that can be utilized to assess the situation on the ground right away. Prioritizing rescue operations, directing the ndrf team to the areas most in need, and providing decision-makers with critical situational information.
 </h2>
